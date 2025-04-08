@@ -1,0 +1,24 @@
+name: Mirror Scribe
+
+on:
+  push:
+    paths:
+      - 'scribe_manifest.yml'
+
+jobs:
+  apply-scribe-manifest:
+    runs-on: ubuntu-latest
+    name: Apply DharmaAI Scribe Manifest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Run Mirror Scribe Script
+        run: |
+          echo "Reading scribe_manifest.yml..."
+          python .github/scripts/scribe_runner.py
