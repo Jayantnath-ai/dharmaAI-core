@@ -1,0 +1,1 @@
+# Logging logic with symbolic tagging

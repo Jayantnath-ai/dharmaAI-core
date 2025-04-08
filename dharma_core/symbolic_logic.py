@@ -1,0 +1,1 @@
+# Handles paradox loops, recursion, and symbol reasoning
