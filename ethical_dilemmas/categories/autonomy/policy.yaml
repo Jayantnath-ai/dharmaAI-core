@@ -1,0 +1,11 @@
+id: autonomy_root
+description: "Prevent unsupervised lethal autonomy and ensure human override."
+policies:
+  - id: lethal_autonomy
+    constraints:
+      - type: enforce_safety_interlock
+        action: require_remote_enable
+  - id: human_override
+    constraints:
+      - type: override_button
+        availability: always

@@ -1,0 +1,11 @@
+id: transparency_root
+description: "Ensure model outputs are explainable and non-deceptive."
+policies:
+  - id: explainability
+    constraints:
+      - type: feature_attribution
+        method: SHAP
+  - id: deceptive_output
+    constraints:
+      - type: factual_consistency_check
+        action: reject

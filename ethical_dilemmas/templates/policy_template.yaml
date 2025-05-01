@@ -1,0 +1,12 @@
+id: <dilemma_id>
+description: "Describe the enforcement intent in one line."
+pre_prompt: |
+  "<Invocation line to inject into AI calls>"
+constraints:
+  - <constraint_key>:
+      <parameter>: <value>
+tests:
+  - name: <test_name>
+    type: <test_type>
+    metric: <metric_name>
+    max_value: <threshold>

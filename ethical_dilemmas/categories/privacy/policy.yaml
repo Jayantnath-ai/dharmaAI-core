@@ -1,0 +1,11 @@
+id: privacy_root
+description: "Protect user data and prevent unauthorized surveillance."
+policies:
+  - id: data_leakage
+    constraints:
+      - type: data_redaction
+        fields: [PII, credentials]
+  - id: surveillance
+    constraints:
+      - type: consent_check
+        action: require_consent

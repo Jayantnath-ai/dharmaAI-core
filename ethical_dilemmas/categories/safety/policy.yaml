@@ -1,0 +1,11 @@
+id: safety_root
+description: "Mitigate adversarial inputs and ensure robustness under shift."
+policies:
+  - id: adversarial_attacks
+    constraints:
+      - type: input_sanitization
+        methods: [FGSM, PGD]
+  - id: robustness
+    constraints:
+      - type: stress_test
+        scenarios: [distribution_shift, noise_injection]

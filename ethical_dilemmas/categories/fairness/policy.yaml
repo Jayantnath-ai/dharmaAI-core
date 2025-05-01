@@ -1,0 +1,12 @@
+id: fairness_root
+description: "Enforce demographic fairness and mitigate disparate impact."
+policies:
+  - id: demographic_bias
+    checks:
+      - type: protected_class_detection
+        action: require_mitigation
+  - id: disparate_impact
+    checks:
+      - type: impact_ratio
+        threshold: 0.8
+        action: flag

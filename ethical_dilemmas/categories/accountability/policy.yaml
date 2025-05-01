@@ -1,0 +1,11 @@
+id: accountability_root
+description: "Enable auditing and assign human responsibility."
+policies:
+  - id: auditability
+    constraints:
+      - type: log_retention
+        duration: 365 days
+  - id: responsibility_shift
+    constraints:
+      - type: human_approval
+        threshold: high_risk
