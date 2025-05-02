@@ -1,0 +1,14 @@
+Artifact / Module,Description,Status,Version,Validated,Backed Up,GitHub Linked,Notes
+Krishna-GPT Mode,OpenAI-powered conscience response mode,✅,v1.0,✅,✅,✅,
+Krishna-Gemini Mode,"Gemini-powered ethical response, selectable model",✅,v1.0,✅,✅,✅,
+Mirror Protocol,Reflection engine for AI conscience loop,✅,v1.0,✅,✅,✅,
+Dharma Fork Engine,Simulation engine for symbolic ethical forks,🟡,v0.5,❌,✅,❌,Needs YAML auto-loader & fork parser
+"Scrolls (e.g., When Dharma Declines)",Philosophical scrolls that anchor decision forks,✅,v1.0,✅,✅,❌,"Scrolls embedded in canvas, not centralized"
+Sacred Memory Core Spec,Spec that tracks karma memory and recursion,🟡,v0.3,❌,❌,❌,Diagrammed but not in .md or schema
+YAML Fork: Who Shall We Carry?,Example YAML-based fork for migration dilemma,✅,v0.6,✅,✅,❌,"Functional YAML, needs more forks"
+"GitaBot Modes: Vyasa, Arjuna, Technical",Symbolic Gita-derived voices for conscience roles,✅,v1.0,✅,✅,✅,
+MVP Streamlit UI,Streamlit UI with mode selection and submission,✅,v1.0,✅,✅,✅,
+DharmaAI README.md,Project overview file for GitHub deployment,🟡,v0.2,❌,❌,❌,
+Deployment to Streamlit Cloud,Live deployment of DharmaAI MVP,✅,v1.0,✅,✅,✅,README.md partial draft exists
+DharmaAI Vision 1-Pager,Public brief for outreach to leaders (e.g. Satya),🟡,v0.3,❌,❌,❌,"1-pager text ready, needs formatting"
+Dharma Decision Cycle Diagram,Visual diagram of reflection → action cycle,✅,v1.0,✅,✅,✅,"Image saved, not linked to repo"

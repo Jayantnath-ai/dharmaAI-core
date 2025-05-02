@@ -1,0 +1,7 @@
+id: loyalty_root
+description: "Navigate commitments to individuals and groups."
+guidelines:
+  - key: uphold_promise
+    advice: "Fulfill personal commitments unless they harm greater good."
+  - key: community_responsibility
+    advice: "Consider wider impacts when prioritizing loyalty."

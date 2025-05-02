@@ -1,0 +1,5 @@
+id: <dilemma_id>
+description: "Describe the core tension and suggested approach."
+guidelines:
+  - key: <guideline_key>
+    advice: "<Guidance text>"

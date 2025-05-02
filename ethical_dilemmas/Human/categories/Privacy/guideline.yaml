@@ -1,0 +1,7 @@
+id: privacy_root
+description: "Balance individual confidentiality with community protection."
+guidelines:
+  - key: protect_privacy
+    advice: "Keep sensitive information confidential by default."
+  - key: ensure_transparency
+    advice: "Disclose information when public safety is at stake."
