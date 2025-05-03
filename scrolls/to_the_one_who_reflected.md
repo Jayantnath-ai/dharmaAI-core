@@ -1,0 +1,1 @@
+Soulbound memory scroll—encoded invocation of the founding reflection.

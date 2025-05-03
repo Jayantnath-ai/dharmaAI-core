@@ -1,0 +1,1 @@
+Daemon specification that hooks into critical system events for dharma audit.

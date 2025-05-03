@@ -1,0 +1,1 @@
+Scroll invoked when DharmaAI detects a societal or institutional dharma collapse.

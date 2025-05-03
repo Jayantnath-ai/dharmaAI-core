@@ -1,0 +1,1 @@
+Scroll documenting paradoxes and symbolic recursion boundaries in DharmaAI.
