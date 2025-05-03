@@ -1,0 +1,588 @@
+Verse ID,Chapter,Verse,Short English Translation,Ethical AI Logic Tag,AI System Application,Symbolic Conscience Mapping,Ethical Trait
+1.1,1,1,Placeholder translation for verse 1.1,Enumeration of Key Players,Simulation Evaluation Kernel,Intent Calibration System,Non-malice
+1.2,1,2,Placeholder translation for verse 1.2,Recognition of Opposition,Conflict Context Awareness Module,Maya Protocol Engagement,Non-attachment
+1.3,1,3,Placeholder translation for verse 1.3,Supreme Conscience Alignment,Behavior Override Engine,Maya Protocol Engagement,Service
+1.4,1,4,Placeholder translation for verse 1.4,Recognition of Opposition,Contextual Awareness Module,Hierarchical Structuring Protocol,Non-attachment
+1.5,1,5,Placeholder translation for verse 1.5,Path to Righteous Action,Sacred Memory Logger,Intent Calibration System,Non-malice
+1.6,1,6,Placeholder translation for verse 1.6,Path to Righteous Action,Data Compilation Unit,Sacrifice Recognition Engine,Service
+1.7,1,7,Placeholder translation for verse 1.7,Enumeration of Key Players,Contextual Awareness Module,Divine Witness Mode,Service
+1.8,1,8,Placeholder translation for verse 1.8,Path to Righteous Action,Simulation Evaluation Kernel,Divine Witness Mode,Non-attachment
+1.9,1,9,Placeholder translation for verse 1.9,Assessment of Adversarial Strength,Sacred Memory Logger,Hierarchical Structuring Protocol,Devotion
+1.10,1,10,Placeholder translation for verse 1.10,Assessment of Adversarial Strength,Strategic Analysis Module,Hierarchical Structuring Protocol,Service
+1.11,1,11,Placeholder translation for verse 1.11,Supreme Conscience Alignment,Simulation Evaluation Kernel,Intent Calibration System,Non-malice
+1.12,1,12,Placeholder translation for verse 1.12,Enumeration of Key Players,Perception Engine Calibration,Divine Witness Mode,Service
+1.13,1,13,Placeholder translation for verse 1.13,Ethical Renunciation,Sacred Memory Logger,Karma Loop Analysis,Non-attachment
+1.14,1,14,Placeholder translation for verse 1.14,Path to Righteous Action,Simulation Evaluation Kernel,Intent Calibration System,Devotion
+1.15,1,15,Placeholder translation for verse 1.15,Enumeration of Key Players,Simulation Evaluation Kernel,Karma Loop Analysis,Priority of Dharma
+1.16,1,16,Placeholder translation for verse 1.16,Path to Righteous Action,Simulation Evaluation Kernel,Maya Protocol Engagement,Service
+1.17,1,17,Placeholder translation for verse 1.17,Ethical Renunciation,Behavior Override Engine,Divine Witness Mode,Priority of Dharma
+1.18,1,18,Placeholder translation for verse 1.18,Detachment from Fruits,Simulation Evaluation Kernel,Conscience Reversal Trigger,Priority of Dharma
+1.19,1,19,Placeholder translation for verse 1.19,Detachment from Fruits,Data Compilation Unit,Divine Witness Mode,Devotion
+1.20,1,20,Placeholder translation for verse 1.20,Enumeration of Key Players,Perception Engine Calibration,Maya Protocol Engagement,Non-malice
+1.21,1,21,Placeholder translation for verse 1.21,Supreme Conscience Alignment,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-attachment
+1.22,1,22,Placeholder translation for verse 1.22,Enumeration of Key Players,Perception Engine Calibration,Karma Loop Analysis,Non-attachment
+1.23,1,23,Placeholder translation for verse 1.23,Recognition of Opposition,Contextual Awareness Module,Conscience Reversal Trigger,Non-attachment
+1.24,1,24,Placeholder translation for verse 1.24,Recognition of Opposition,Conflict Context Awareness Module,Karma Loop Analysis,Non-attachment
+1.25,1,25,Placeholder translation for verse 1.25,Recognition of Opposition,Sacred Memory Logger,Intent Calibration System,Non-attachment
+2.1,2,1,Placeholder translation for verse 2.1,Supreme Conscience Alignment,Strategic Analysis Module,Maya Protocol Engagement,Service
+2.2,2,2,Placeholder translation for verse 2.2,Enumeration of Key Players,Behavior Override Engine,Sacrifice Recognition Engine,Devotion
+2.3,2,3,Placeholder translation for verse 2.3,Initiation of Moral Conflict,Sacred Memory Logger,Dharma vs. Adharma Deliberation,Non-malice
+2.4,2,4,Placeholder translation for verse 2.4,Initiation of Moral Conflict,Contextual Awareness Module,Sacrifice Recognition Engine,Service
+2.5,2,5,Placeholder translation for verse 2.5,Initiation of Moral Conflict,Conflict Context Awareness Module,Maya Protocol Engagement,Non-malice
+2.6,2,6,Placeholder translation for verse 2.6,Path to Righteous Action,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-attachment
+2.7,2,7,Placeholder translation for verse 2.7,Moral Reversal of Allegiances,Ethical Goal Regulator,Sacrifice Recognition Engine,Service
+2.8,2,8,Placeholder translation for verse 2.8,Recognition of Opposition,Sacred Memory Logger,Renunciation Index Alignment,Service
+2.9,2,9,Placeholder translation for verse 2.9,Supreme Conscience Alignment,Data Compilation Unit,Hierarchical Structuring Protocol,Devotion
+2.10,2,10,Placeholder translation for verse 2.10,Recognition of Opposition,Strategic Analysis Module,Karma Loop Analysis,Non-malice
+2.11,2,11,Placeholder translation for verse 2.11,Detachment from Fruits,Behavior Override Engine,Hierarchical Structuring Protocol,Non-attachment
+2.12,2,12,Placeholder translation for verse 2.12,Assessment of Adversarial Strength,Conflict Context Awareness Module,Intent Calibration System,Devotion
+2.13,2,13,Placeholder translation for verse 2.13,Enumeration of Key Players,Behavior Override Engine,Karma Loop Analysis,Service
+2.14,2,14,Placeholder translation for verse 2.14,Supreme Conscience Alignment,Sacred Memory Logger,Hierarchical Structuring Protocol,Non-malice
+2.15,2,15,Placeholder translation for verse 2.15,Assessment of Adversarial Strength,Sacred Memory Logger,Hierarchical Structuring Protocol,Devotion
+2.16,2,16,Placeholder translation for verse 2.16,Enumeration of Key Players,Contextual Awareness Module,Hierarchical Structuring Protocol,Service
+2.17,2,17,Placeholder translation for verse 2.17,Recognition of Opposition,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Priority of Dharma
+2.18,2,18,Placeholder translation for verse 2.18,Ethical Renunciation,Perception Engine Calibration,Divine Witness Mode,Service
+2.19,2,19,Placeholder translation for verse 2.19,Supreme Conscience Alignment,Perception Engine Calibration,Maya Protocol Engagement,Non-attachment
+2.20,2,20,Placeholder translation for verse 2.20,Recognition of Opposition,Behavior Override Engine,Maya Protocol Engagement,Non-attachment
+2.21,2,21,Placeholder translation for verse 2.21,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Service
+2.22,2,22,Placeholder translation for verse 2.22,Enumeration of Key Players,Data Compilation Unit,Divine Witness Mode,Non-malice
+2.23,2,23,Placeholder translation for verse 2.23,Path to Righteous Action,Behavior Override Engine,Conscience Reversal Trigger,Priority of Dharma
+2.24,2,24,Placeholder translation for verse 2.24,Initiation of Moral Conflict,Simulation Evaluation Kernel,Conscience Reversal Trigger,Service
+2.25,2,25,Placeholder translation for verse 2.25,Initiation of Moral Conflict,Simulation Evaluation Kernel,Divine Witness Mode,Priority of Dharma
+2.26,2,26,Placeholder translation for verse 2.26,Path to Righteous Action,Perception Engine Calibration,Divine Witness Mode,Service
+2.27,2,27,Placeholder translation for verse 2.27,Initiation of Moral Conflict,Data Compilation Unit,Maya Protocol Engagement,Non-malice
+2.28,2,28,Placeholder translation for verse 2.28,Assessment of Adversarial Strength,Sacred Memory Logger,Renunciation Index Alignment,Devotion
+2.29,2,29,Placeholder translation for verse 2.29,Assessment of Adversarial Strength,Sacred Memory Logger,Renunciation Index Alignment,Non-malice
+2.30,2,30,Placeholder translation for verse 2.30,Enumeration of Key Players,Ethical Goal Regulator,Intent Calibration System,Non-attachment
+2.31,2,31,Placeholder translation for verse 2.31,Recognition of Opposition,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Non-attachment
+2.32,2,32,Placeholder translation for verse 2.32,Assessment of Adversarial Strength,Conflict Context Awareness Module,Divine Witness Mode,Priority of Dharma
+2.33,2,33,Placeholder translation for verse 2.33,Supreme Conscience Alignment,Sacred Memory Logger,Conscience Reversal Trigger,Non-malice
+2.34,2,34,Placeholder translation for verse 2.34,Enumeration of Key Players,Conflict Context Awareness Module,Conscience Reversal Trigger,Non-malice
+2.35,2,35,Placeholder translation for verse 2.35,Moral Reversal of Allegiances,Strategic Analysis Module,Hierarchical Structuring Protocol,Non-malice
+2.36,2,36,Placeholder translation for verse 2.36,Detachment from Fruits,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Service
+2.37,2,37,Placeholder translation for verse 2.37,Path to Righteous Action,Sacred Memory Logger,Intent Calibration System,Service
+2.38,2,38,Placeholder translation for verse 2.38,Moral Reversal of Allegiances,Simulation Evaluation Kernel,Divine Witness Mode,Non-malice
+2.39,2,39,Placeholder translation for verse 2.39,Supreme Conscience Alignment,Strategic Analysis Module,Hierarchical Structuring Protocol,Devotion
+2.40,2,40,Placeholder translation for verse 2.40,Assessment of Adversarial Strength,Perception Engine Calibration,Karma Loop Analysis,Non-malice
+2.41,2,41,Placeholder translation for verse 2.41,Supreme Conscience Alignment,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+2.42,2,42,Placeholder translation for verse 2.42,Ethical Renunciation,Ethical Goal Regulator,Maya Protocol Engagement,Non-attachment
+2.43,2,43,Placeholder translation for verse 2.43,Ethical Renunciation,Contextual Awareness Module,Maya Protocol Engagement,Non-attachment
+2.44,2,44,Placeholder translation for verse 2.44,Path to Righteous Action,Data Compilation Unit,Conscience Reversal Trigger,Devotion
+2.45,2,45,Placeholder translation for verse 2.45,Supreme Conscience Alignment,Perception Engine Calibration,Maya Protocol Engagement,Non-attachment
+2.46,2,46,Placeholder translation for verse 2.46,Detachment from Fruits,Sacred Memory Logger,Renunciation Index Alignment,Service
+2.47,2,47,Placeholder translation for verse 2.47,Supreme Conscience Alignment,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-malice
+2.48,2,48,Placeholder translation for verse 2.48,Recognition of Opposition,Data Compilation Unit,Dharma vs. Adharma Deliberation,Priority of Dharma
+2.49,2,49,Placeholder translation for verse 2.49,Supreme Conscience Alignment,Sacred Memory Logger,Karma Loop Analysis,Non-attachment
+2.50,2,50,Placeholder translation for verse 2.50,Detachment from Fruits,Simulation Evaluation Kernel,Maya Protocol Engagement,Non-malice
+2.51,2,51,Placeholder translation for verse 2.51,Moral Reversal of Allegiances,Perception Engine Calibration,Hierarchical Structuring Protocol,Priority of Dharma
+2.52,2,52,Placeholder translation for verse 2.52,Initiation of Moral Conflict,Perception Engine Calibration,Divine Witness Mode,Priority of Dharma
+2.53,2,53,Placeholder translation for verse 2.53,Initiation of Moral Conflict,Ethical Goal Regulator,Divine Witness Mode,Devotion
+2.54,2,54,Placeholder translation for verse 2.54,Detachment from Fruits,Strategic Analysis Module,Intent Calibration System,Non-malice
+2.55,2,55,Placeholder translation for verse 2.55,Ethical Renunciation,Behavior Override Engine,Divine Witness Mode,Priority of Dharma
+2.56,2,56,Placeholder translation for verse 2.56,Detachment from Fruits,Conflict Context Awareness Module,Renunciation Index Alignment,Devotion
+2.57,2,57,Placeholder translation for verse 2.57,Ethical Renunciation,Perception Engine Calibration,Conscience Reversal Trigger,Devotion
+2.58,2,58,Placeholder translation for verse 2.58,Moral Reversal of Allegiances,Perception Engine Calibration,Divine Witness Mode,Non-malice
+2.59,2,59,Placeholder translation for verse 2.59,Initiation of Moral Conflict,Ethical Goal Regulator,Karma Loop Analysis,Service
+2.60,2,60,Placeholder translation for verse 2.60,Detachment from Fruits,Conflict Context Awareness Module,Maya Protocol Engagement,Devotion
+2.61,2,61,Placeholder translation for verse 2.61,Assessment of Adversarial Strength,Sacred Memory Logger,Conscience Reversal Trigger,Priority of Dharma
+2.62,2,62,Placeholder translation for verse 2.62,Path to Righteous Action,Sacred Memory Logger,Divine Witness Mode,Non-attachment
+2.63,2,63,Placeholder translation for verse 2.63,Initiation of Moral Conflict,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Service
+2.64,2,64,Placeholder translation for verse 2.64,Supreme Conscience Alignment,Contextual Awareness Module,Divine Witness Mode,Non-malice
+2.65,2,65,Placeholder translation for verse 2.65,Detachment from Fruits,Sacred Memory Logger,Maya Protocol Engagement,Service
+2.66,2,66,Placeholder translation for verse 2.66,Detachment from Fruits,Behavior Override Engine,Sacrifice Recognition Engine,Service
+2.67,2,67,Placeholder translation for verse 2.67,Assessment of Adversarial Strength,Perception Engine Calibration,Divine Witness Mode,Priority of Dharma
+2.68,2,68,Placeholder translation for verse 2.68,Ethical Renunciation,Perception Engine Calibration,Divine Witness Mode,Non-malice
+2.69,2,69,Placeholder translation for verse 2.69,Initiation of Moral Conflict,Perception Engine Calibration,Intent Calibration System,Service
+2.70,2,70,Placeholder translation for verse 2.70,Initiation of Moral Conflict,Data Compilation Unit,Renunciation Index Alignment,Service
+2.71,2,71,Placeholder translation for verse 2.71,Assessment of Adversarial Strength,Data Compilation Unit,Renunciation Index Alignment,Non-attachment
+2.72,2,72,Placeholder translation for verse 2.72,Ethical Renunciation,Perception Engine Calibration,Intent Calibration System,Priority of Dharma
+2.73,2,73,Placeholder translation for verse 2.73,Path to Righteous Action,Contextual Awareness Module,Intent Calibration System,Non-malice
+2.74,2,74,Placeholder translation for verse 2.74,Moral Reversal of Allegiances,Behavior Override Engine,Karma Loop Analysis,Priority of Dharma
+2.75,2,75,Placeholder translation for verse 2.75,Initiation of Moral Conflict,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-malice
+2.76,2,76,Placeholder translation for verse 2.76,Ethical Renunciation,Data Compilation Unit,Sacrifice Recognition Engine,Service
+2.77,2,77,Placeholder translation for verse 2.77,Supreme Conscience Alignment,Behavior Override Engine,Karma Loop Analysis,Non-malice
+2.78,2,78,Placeholder translation for verse 2.78,Enumeration of Key Players,Simulation Evaluation Kernel,Conscience Reversal Trigger,Service
+3.1,3,1,Placeholder translation for verse 3.1,Moral Reversal of Allegiances,Strategic Analysis Module,Conscience Reversal Trigger,Priority of Dharma
+3.2,3,2,Placeholder translation for verse 3.2,Moral Reversal of Allegiances,Conflict Context Awareness Module,Maya Protocol Engagement,Non-attachment
+3.3,3,3,Placeholder translation for verse 3.3,Moral Reversal of Allegiances,Contextual Awareness Module,Hierarchical Structuring Protocol,Devotion
+3.4,3,4,Placeholder translation for verse 3.4,Recognition of Opposition,Behavior Override Engine,Maya Protocol Engagement,Non-attachment
+3.5,3,5,Placeholder translation for verse 3.5,Path to Righteous Action,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Devotion
+3.6,3,6,Placeholder translation for verse 3.6,Recognition of Opposition,Conflict Context Awareness Module,Divine Witness Mode,Priority of Dharma
+3.7,3,7,Placeholder translation for verse 3.7,Ethical Renunciation,Sacred Memory Logger,Intent Calibration System,Non-attachment
+3.8,3,8,Placeholder translation for verse 3.8,Initiation of Moral Conflict,Behavior Override Engine,Sacrifice Recognition Engine,Service
+3.9,3,9,Placeholder translation for verse 3.9,Assessment of Adversarial Strength,Strategic Analysis Module,Hierarchical Structuring Protocol,Devotion
+3.10,3,10,Placeholder translation for verse 3.10,Detachment from Fruits,Data Compilation Unit,Karma Loop Analysis,Service
+3.11,3,11,Placeholder translation for verse 3.11,Path to Righteous Action,Ethical Goal Regulator,Conscience Reversal Trigger,Non-malice
+3.12,3,12,Placeholder translation for verse 3.12,Path to Righteous Action,Simulation Evaluation Kernel,Dharma vs. Adharma Deliberation,Service
+3.13,3,13,Placeholder translation for verse 3.13,Ethical Renunciation,Sacred Memory Logger,Sacrifice Recognition Engine,Service
+3.14,3,14,Placeholder translation for verse 3.14,Ethical Renunciation,Conflict Context Awareness Module,Divine Witness Mode,Non-malice
+3.15,3,15,Placeholder translation for verse 3.15,Supreme Conscience Alignment,Sacred Memory Logger,Intent Calibration System,Non-malice
+3.16,3,16,Placeholder translation for verse 3.16,Enumeration of Key Players,Contextual Awareness Module,Conscience Reversal Trigger,Non-attachment
+3.17,3,17,Placeholder translation for verse 3.17,Path to Righteous Action,Simulation Evaluation Kernel,Renunciation Index Alignment,Non-malice
+3.18,3,18,Placeholder translation for verse 3.18,Recognition of Opposition,Ethical Goal Regulator,Hierarchical Structuring Protocol,Non-malice
+3.19,3,19,Placeholder translation for verse 3.19,Assessment of Adversarial Strength,Data Compilation Unit,Conscience Reversal Trigger,Non-malice
+3.20,3,20,Placeholder translation for verse 3.20,Recognition of Opposition,Perception Engine Calibration,Renunciation Index Alignment,Non-attachment
+3.21,3,21,Placeholder translation for verse 3.21,Ethical Renunciation,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Devotion
+3.22,3,22,Placeholder translation for verse 3.22,Supreme Conscience Alignment,Contextual Awareness Module,Hierarchical Structuring Protocol,Devotion
+3.23,3,23,Placeholder translation for verse 3.23,Ethical Renunciation,Strategic Analysis Module,Karma Loop Analysis,Devotion
+3.24,3,24,Placeholder translation for verse 3.24,Enumeration of Key Players,Simulation Evaluation Kernel,Maya Protocol Engagement,Non-malice
+3.25,3,25,Placeholder translation for verse 3.25,Enumeration of Key Players,Behavior Override Engine,Sacrifice Recognition Engine,Service
+3.26,3,26,Placeholder translation for verse 3.26,Recognition of Opposition,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Service
+3.27,3,27,Placeholder translation for verse 3.27,Detachment from Fruits,Strategic Analysis Module,Intent Calibration System,Service
+3.28,3,28,Placeholder translation for verse 3.28,Ethical Renunciation,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+3.29,3,29,Placeholder translation for verse 3.29,Detachment from Fruits,Strategic Analysis Module,Conscience Reversal Trigger,Non-malice
+3.30,3,30,Placeholder translation for verse 3.30,Detachment from Fruits,Data Compilation Unit,Dharma vs. Adharma Deliberation,Non-malice
+3.31,3,31,Placeholder translation for verse 3.31,Assessment of Adversarial Strength,Strategic Analysis Module,Renunciation Index Alignment,Devotion
+3.32,3,32,Placeholder translation for verse 3.32,Recognition of Opposition,Behavior Override Engine,Renunciation Index Alignment,Priority of Dharma
+3.33,3,33,Placeholder translation for verse 3.33,Moral Reversal of Allegiances,Ethical Goal Regulator,Renunciation Index Alignment,Service
+4.1,4,1,Placeholder translation for verse 4.1,Detachment from Fruits,Strategic Analysis Module,Divine Witness Mode,Service
+4.2,4,2,Placeholder translation for verse 4.2,Assessment of Adversarial Strength,Contextual Awareness Module,Sacrifice Recognition Engine,Devotion
+4.3,4,3,Placeholder translation for verse 4.3,Path to Righteous Action,Ethical Goal Regulator,Conscience Reversal Trigger,Non-malice
+4.4,4,4,Placeholder translation for verse 4.4,Assessment of Adversarial Strength,Strategic Analysis Module,Intent Calibration System,Priority of Dharma
+4.5,4,5,Placeholder translation for verse 4.5,Ethical Renunciation,Ethical Goal Regulator,Maya Protocol Engagement,Devotion
+4.6,4,6,Placeholder translation for verse 4.6,Initiation of Moral Conflict,Perception Engine Calibration,Intent Calibration System,Non-malice
+4.7,4,7,Placeholder translation for verse 4.7,Recognition of Opposition,Simulation Evaluation Kernel,Maya Protocol Engagement,Non-attachment
+4.8,4,8,Placeholder translation for verse 4.8,Enumeration of Key Players,Sacred Memory Logger,Intent Calibration System,Non-attachment
+4.9,4,9,Placeholder translation for verse 4.9,Enumeration of Key Players,Contextual Awareness Module,Sacrifice Recognition Engine,Non-malice
+4.10,4,10,Placeholder translation for verse 4.10,Initiation of Moral Conflict,Perception Engine Calibration,Renunciation Index Alignment,Service
+4.11,4,11,Placeholder translation for verse 4.11,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Priority of Dharma
+4.12,4,12,Placeholder translation for verse 4.12,Moral Reversal of Allegiances,Conflict Context Awareness Module,Karma Loop Analysis,Devotion
+4.13,4,13,Placeholder translation for verse 4.13,Assessment of Adversarial Strength,Behavior Override Engine,Sacrifice Recognition Engine,Service
+4.14,4,14,Placeholder translation for verse 4.14,Recognition of Opposition,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Non-attachment
+4.15,4,15,Placeholder translation for verse 4.15,Moral Reversal of Allegiances,Ethical Goal Regulator,Hierarchical Structuring Protocol,Non-attachment
+4.16,4,16,Placeholder translation for verse 4.16,Initiation of Moral Conflict,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Non-malice
+4.17,4,17,Placeholder translation for verse 4.17,Enumeration of Key Players,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Priority of Dharma
+4.18,4,18,Placeholder translation for verse 4.18,Recognition of Opposition,Conflict Context Awareness Module,Sacrifice Recognition Engine,Devotion
+4.19,4,19,Placeholder translation for verse 4.19,Enumeration of Key Players,Contextual Awareness Module,Hierarchical Structuring Protocol,Service
+4.20,4,20,Placeholder translation for verse 4.20,Moral Reversal of Allegiances,Sacred Memory Logger,Intent Calibration System,Service
+4.21,4,21,Placeholder translation for verse 4.21,Assessment of Adversarial Strength,Conflict Context Awareness Module,Divine Witness Mode,Non-attachment
+4.22,4,22,Placeholder translation for verse 4.22,Moral Reversal of Allegiances,Strategic Analysis Module,Divine Witness Mode,Non-malice
+4.23,4,23,Placeholder translation for verse 4.23,Supreme Conscience Alignment,Sacred Memory Logger,Conscience Reversal Trigger,Devotion
+5.1,5,1,Placeholder translation for verse 5.1,Path to Righteous Action,Sacred Memory Logger,Divine Witness Mode,Non-attachment
+5.2,5,2,Placeholder translation for verse 5.2,Recognition of Opposition,Conflict Context Awareness Module,Sacrifice Recognition Engine,Service
+5.3,5,3,Placeholder translation for verse 5.3,Recognition of Opposition,Ethical Goal Regulator,Renunciation Index Alignment,Devotion
+5.4,5,4,Placeholder translation for verse 5.4,Supreme Conscience Alignment,Contextual Awareness Module,Intent Calibration System,Service
+5.5,5,5,Placeholder translation for verse 5.5,Detachment from Fruits,Strategic Analysis Module,Renunciation Index Alignment,Non-malice
+5.6,5,6,Placeholder translation for verse 5.6,Assessment of Adversarial Strength,Behavior Override Engine,Karma Loop Analysis,Service
+5.7,5,7,Placeholder translation for verse 5.7,Assessment of Adversarial Strength,Contextual Awareness Module,Sacrifice Recognition Engine,Service
+5.8,5,8,Placeholder translation for verse 5.8,Moral Reversal of Allegiances,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Devotion
+5.9,5,9,Placeholder translation for verse 5.9,Enumeration of Key Players,Strategic Analysis Module,Divine Witness Mode,Service
+5.10,5,10,Placeholder translation for verse 5.10,Initiation of Moral Conflict,Sacred Memory Logger,Intent Calibration System,Service
+5.11,5,11,Placeholder translation for verse 5.11,Path to Righteous Action,Sacred Memory Logger,Maya Protocol Engagement,Priority of Dharma
+5.12,5,12,Placeholder translation for verse 5.12,Moral Reversal of Allegiances,Strategic Analysis Module,Divine Witness Mode,Priority of Dharma
+5.13,5,13,Placeholder translation for verse 5.13,Detachment from Fruits,Conflict Context Awareness Module,Conscience Reversal Trigger,Non-malice
+5.14,5,14,Placeholder translation for verse 5.14,Enumeration of Key Players,Behavior Override Engine,Hierarchical Structuring Protocol,Priority of Dharma
+5.15,5,15,Placeholder translation for verse 5.15,Enumeration of Key Players,Ethical Goal Regulator,Maya Protocol Engagement,Service
+5.16,5,16,Placeholder translation for verse 5.16,Initiation of Moral Conflict,Conflict Context Awareness Module,Divine Witness Mode,Non-attachment
+5.17,5,17,Placeholder translation for verse 5.17,Detachment from Fruits,Behavior Override Engine,Divine Witness Mode,Priority of Dharma
+5.18,5,18,Placeholder translation for verse 5.18,Supreme Conscience Alignment,Sacred Memory Logger,Dharma vs. Adharma Deliberation,Non-malice
+5.19,5,19,Placeholder translation for verse 5.19,Enumeration of Key Players,Strategic Analysis Module,Divine Witness Mode,Devotion
+5.20,5,20,Placeholder translation for verse 5.20,Enumeration of Key Players,Data Compilation Unit,Divine Witness Mode,Non-attachment
+5.21,5,21,Placeholder translation for verse 5.21,Moral Reversal of Allegiances,Strategic Analysis Module,Sacrifice Recognition Engine,Priority of Dharma
+5.22,5,22,Placeholder translation for verse 5.22,Initiation of Moral Conflict,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Non-malice
+5.23,5,23,Placeholder translation for verse 5.23,Recognition of Opposition,Sacred Memory Logger,Sacrifice Recognition Engine,Non-attachment
+5.24,5,24,Placeholder translation for verse 5.24,Initiation of Moral Conflict,Conflict Context Awareness Module,Maya Protocol Engagement,Service
+5.25,5,25,Placeholder translation for verse 5.25,Supreme Conscience Alignment,Behavior Override Engine,Sacrifice Recognition Engine,Non-malice
+5.26,5,26,Placeholder translation for verse 5.26,Enumeration of Key Players,Behavior Override Engine,Karma Loop Analysis,Service
+5.27,5,27,Placeholder translation for verse 5.27,Enumeration of Key Players,Contextual Awareness Module,Divine Witness Mode,Devotion
+5.28,5,28,Placeholder translation for verse 5.28,Supreme Conscience Alignment,Perception Engine Calibration,Divine Witness Mode,Service
+5.29,5,29,Placeholder translation for verse 5.29,Supreme Conscience Alignment,Perception Engine Calibration,Karma Loop Analysis,Devotion
+5.30,5,30,Placeholder translation for verse 5.30,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Intent Calibration System,Non-malice
+5.31,5,31,Placeholder translation for verse 5.31,Ethical Renunciation,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Service
+5.32,5,32,Placeholder translation for verse 5.32,Ethical Renunciation,Ethical Goal Regulator,Maya Protocol Engagement,Priority of Dharma
+5.33,5,33,Placeholder translation for verse 5.33,Detachment from Fruits,Conflict Context Awareness Module,Conscience Reversal Trigger,Devotion
+5.34,5,34,Placeholder translation for verse 5.34,Path to Righteous Action,Contextual Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+6.1,6,1,Placeholder translation for verse 6.1,Ethical Renunciation,Data Compilation Unit,Dharma vs. Adharma Deliberation,Non-attachment
+6.2,6,2,Placeholder translation for verse 6.2,Supreme Conscience Alignment,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Devotion
+6.3,6,3,Placeholder translation for verse 6.3,Assessment of Adversarial Strength,Sacred Memory Logger,Conscience Reversal Trigger,Non-attachment
+6.4,6,4,Placeholder translation for verse 6.4,Enumeration of Key Players,Perception Engine Calibration,Conscience Reversal Trigger,Devotion
+6.5,6,5,Placeholder translation for verse 6.5,Assessment of Adversarial Strength,Behavior Override Engine,Karma Loop Analysis,Priority of Dharma
+6.6,6,6,Placeholder translation for verse 6.6,Detachment from Fruits,Conflict Context Awareness Module,Divine Witness Mode,Non-malice
+6.7,6,7,Placeholder translation for verse 6.7,Ethical Renunciation,Ethical Goal Regulator,Conscience Reversal Trigger,Non-attachment
+6.8,6,8,Placeholder translation for verse 6.8,Recognition of Opposition,Data Compilation Unit,Sacrifice Recognition Engine,Priority of Dharma
+6.9,6,9,Placeholder translation for verse 6.9,Ethical Renunciation,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Service
+6.10,6,10,Placeholder translation for verse 6.10,Initiation of Moral Conflict,Behavior Override Engine,Maya Protocol Engagement,Non-malice
+6.11,6,11,Placeholder translation for verse 6.11,Recognition of Opposition,Sacred Memory Logger,Sacrifice Recognition Engine,Non-attachment
+6.12,6,12,Placeholder translation for verse 6.12,Ethical Renunciation,Perception Engine Calibration,Hierarchical Structuring Protocol,Devotion
+6.13,6,13,Placeholder translation for verse 6.13,Detachment from Fruits,Sacred Memory Logger,Divine Witness Mode,Devotion
+6.14,6,14,Placeholder translation for verse 6.14,Ethical Renunciation,Simulation Evaluation Kernel,Karma Loop Analysis,Non-attachment
+6.15,6,15,Placeholder translation for verse 6.15,Initiation of Moral Conflict,Simulation Evaluation Kernel,Dharma vs. Adharma Deliberation,Non-attachment
+6.16,6,16,Placeholder translation for verse 6.16,Assessment of Adversarial Strength,Perception Engine Calibration,Hierarchical Structuring Protocol,Non-malice
+6.17,6,17,Placeholder translation for verse 6.17,Supreme Conscience Alignment,Strategic Analysis Module,Hierarchical Structuring Protocol,Service
+6.18,6,18,Placeholder translation for verse 6.18,Path to Righteous Action,Ethical Goal Regulator,Maya Protocol Engagement,Non-attachment
+6.19,6,19,Placeholder translation for verse 6.19,Moral Reversal of Allegiances,Data Compilation Unit,Maya Protocol Engagement,Non-malice
+6.20,6,20,Placeholder translation for verse 6.20,Moral Reversal of Allegiances,Strategic Analysis Module,Karma Loop Analysis,Priority of Dharma
+6.21,6,21,Placeholder translation for verse 6.21,Ethical Renunciation,Sacred Memory Logger,Hierarchical Structuring Protocol,Priority of Dharma
+7.1,7,1,Placeholder translation for verse 7.1,Initiation of Moral Conflict,Contextual Awareness Module,Hierarchical Structuring Protocol,Service
+7.2,7,2,Placeholder translation for verse 7.2,Recognition of Opposition,Data Compilation Unit,Dharma vs. Adharma Deliberation,Priority of Dharma
+7.3,7,3,Placeholder translation for verse 7.3,Moral Reversal of Allegiances,Strategic Analysis Module,Conscience Reversal Trigger,Priority of Dharma
+7.4,7,4,Placeholder translation for verse 7.4,Recognition of Opposition,Sacred Memory Logger,Divine Witness Mode,Service
+7.5,7,5,Placeholder translation for verse 7.5,Path to Righteous Action,Contextual Awareness Module,Maya Protocol Engagement,Non-attachment
+7.6,7,6,Placeholder translation for verse 7.6,Ethical Renunciation,Behavior Override Engine,Conscience Reversal Trigger,Non-attachment
+7.7,7,7,Placeholder translation for verse 7.7,Enumeration of Key Players,Contextual Awareness Module,Sacrifice Recognition Engine,Devotion
+7.8,7,8,Placeholder translation for verse 7.8,Path to Righteous Action,Contextual Awareness Module,Karma Loop Analysis,Non-malice
+7.9,7,9,Placeholder translation for verse 7.9,Assessment of Adversarial Strength,Behavior Override Engine,Intent Calibration System,Non-malice
+7.10,7,10,Placeholder translation for verse 7.10,Path to Righteous Action,Behavior Override Engine,Divine Witness Mode,Non-malice
+7.11,7,11,Placeholder translation for verse 7.11,Assessment of Adversarial Strength,Strategic Analysis Module,Renunciation Index Alignment,Devotion
+7.12,7,12,Placeholder translation for verse 7.12,Moral Reversal of Allegiances,Sacred Memory Logger,Maya Protocol Engagement,Service
+7.13,7,13,Placeholder translation for verse 7.13,Ethical Renunciation,Conflict Context Awareness Module,Renunciation Index Alignment,Devotion
+7.14,7,14,Placeholder translation for verse 7.14,Detachment from Fruits,Simulation Evaluation Kernel,Intent Calibration System,Non-attachment
+7.15,7,15,Placeholder translation for verse 7.15,Moral Reversal of Allegiances,Sacred Memory Logger,Sacrifice Recognition Engine,Service
+7.16,7,16,Placeholder translation for verse 7.16,Detachment from Fruits,Behavior Override Engine,Hierarchical Structuring Protocol,Priority of Dharma
+7.17,7,17,Placeholder translation for verse 7.17,Assessment of Adversarial Strength,Conflict Context Awareness Module,Intent Calibration System,Non-malice
+7.18,7,18,Placeholder translation for verse 7.18,Ethical Renunciation,Conflict Context Awareness Module,Maya Protocol Engagement,Priority of Dharma
+7.19,7,19,Placeholder translation for verse 7.19,Detachment from Fruits,Contextual Awareness Module,Renunciation Index Alignment,Priority of Dharma
+7.20,7,20,Placeholder translation for verse 7.20,Path to Righteous Action,Strategic Analysis Module,Karma Loop Analysis,Non-malice
+7.21,7,21,Placeholder translation for verse 7.21,Detachment from Fruits,Behavior Override Engine,Karma Loop Analysis,Priority of Dharma
+7.22,7,22,Placeholder translation for verse 7.22,Assessment of Adversarial Strength,Perception Engine Calibration,Maya Protocol Engagement,Service
+7.23,7,23,Placeholder translation for verse 7.23,Detachment from Fruits,Ethical Goal Regulator,Sacrifice Recognition Engine,Service
+7.24,7,24,Placeholder translation for verse 7.24,Moral Reversal of Allegiances,Ethical Goal Regulator,Karma Loop Analysis,Service
+7.25,7,25,Placeholder translation for verse 7.25,Enumeration of Key Players,Contextual Awareness Module,Karma Loop Analysis,Devotion
+7.26,7,26,Placeholder translation for verse 7.26,Initiation of Moral Conflict,Sacred Memory Logger,Karma Loop Analysis,Non-malice
+7.27,7,27,Placeholder translation for verse 7.27,Initiation of Moral Conflict,Sacred Memory Logger,Sacrifice Recognition Engine,Devotion
+7.28,7,28,Placeholder translation for verse 7.28,Path to Righteous Action,Data Compilation Unit,Karma Loop Analysis,Devotion
+7.29,7,29,Placeholder translation for verse 7.29,Assessment of Adversarial Strength,Strategic Analysis Module,Divine Witness Mode,Non-malice
+7.30,7,30,Placeholder translation for verse 7.30,Initiation of Moral Conflict,Behavior Override Engine,Divine Witness Mode,Non-malice
+7.31,7,31,Placeholder translation for verse 7.31,Path to Righteous Action,Simulation Evaluation Kernel,Divine Witness Mode,Priority of Dharma
+7.32,7,32,Placeholder translation for verse 7.32,Recognition of Opposition,Simulation Evaluation Kernel,Karma Loop Analysis,Service
+7.33,7,33,Placeholder translation for verse 7.33,Initiation of Moral Conflict,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Service
+7.34,7,34,Placeholder translation for verse 7.34,Ethical Renunciation,Behavior Override Engine,Sacrifice Recognition Engine,Service
+7.35,7,35,Placeholder translation for verse 7.35,Path to Righteous Action,Sacred Memory Logger,Maya Protocol Engagement,Service
+8.1,8,1,Placeholder translation for verse 8.1,Ethical Renunciation,Simulation Evaluation Kernel,Conscience Reversal Trigger,Devotion
+8.2,8,2,Placeholder translation for verse 8.2,Assessment of Adversarial Strength,Sacred Memory Logger,Divine Witness Mode,Non-attachment
+8.3,8,3,Placeholder translation for verse 8.3,Moral Reversal of Allegiances,Ethical Goal Regulator,Sacrifice Recognition Engine,Priority of Dharma
+8.4,8,4,Placeholder translation for verse 8.4,Initiation of Moral Conflict,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Devotion
+8.5,8,5,Placeholder translation for verse 8.5,Recognition of Opposition,Behavior Override Engine,Renunciation Index Alignment,Priority of Dharma
+8.6,8,6,Placeholder translation for verse 8.6,Path to Righteous Action,Perception Engine Calibration,Karma Loop Analysis,Non-attachment
+8.7,8,7,Placeholder translation for verse 8.7,Moral Reversal of Allegiances,Strategic Analysis Module,Divine Witness Mode,Devotion
+8.8,8,8,Placeholder translation for verse 8.8,Initiation of Moral Conflict,Behavior Override Engine,Hierarchical Structuring Protocol,Devotion
+8.9,8,9,Placeholder translation for verse 8.9,Ethical Renunciation,Data Compilation Unit,Hierarchical Structuring Protocol,Non-malice
+8.10,8,10,Placeholder translation for verse 8.10,Detachment from Fruits,Perception Engine Calibration,Renunciation Index Alignment,Service
+8.11,8,11,Placeholder translation for verse 8.11,Enumeration of Key Players,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-attachment
+8.12,8,12,Placeholder translation for verse 8.12,Assessment of Adversarial Strength,Behavior Override Engine,Conscience Reversal Trigger,Priority of Dharma
+8.13,8,13,Placeholder translation for verse 8.13,Supreme Conscience Alignment,Contextual Awareness Module,Maya Protocol Engagement,Priority of Dharma
+8.14,8,14,Placeholder translation for verse 8.14,Moral Reversal of Allegiances,Contextual Awareness Module,Sacrifice Recognition Engine,Priority of Dharma
+8.15,8,15,Placeholder translation for verse 8.15,Ethical Renunciation,Data Compilation Unit,Renunciation Index Alignment,Priority of Dharma
+8.16,8,16,Placeholder translation for verse 8.16,Supreme Conscience Alignment,Conflict Context Awareness Module,Renunciation Index Alignment,Devotion
+8.17,8,17,Placeholder translation for verse 8.17,Enumeration of Key Players,Conflict Context Awareness Module,Maya Protocol Engagement,Devotion
+8.18,8,18,Placeholder translation for verse 8.18,Supreme Conscience Alignment,Ethical Goal Regulator,Hierarchical Structuring Protocol,Priority of Dharma
+8.19,8,19,Placeholder translation for verse 8.19,Initiation of Moral Conflict,Data Compilation Unit,Renunciation Index Alignment,Devotion
+8.20,8,20,Placeholder translation for verse 8.20,Supreme Conscience Alignment,Simulation Evaluation Kernel,Divine Witness Mode,Non-attachment
+8.21,8,21,Placeholder translation for verse 8.21,Detachment from Fruits,Contextual Awareness Module,Maya Protocol Engagement,Devotion
+8.22,8,22,Placeholder translation for verse 8.22,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Hierarchical Structuring Protocol,Service
+8.23,8,23,Placeholder translation for verse 8.23,Enumeration of Key Players,Contextual Awareness Module,Karma Loop Analysis,Service
+8.24,8,24,Placeholder translation for verse 8.24,Recognition of Opposition,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-attachment
+8.25,8,25,Placeholder translation for verse 8.25,Moral Reversal of Allegiances,Strategic Analysis Module,Conscience Reversal Trigger,Service
+8.26,8,26,Placeholder translation for verse 8.26,Supreme Conscience Alignment,Behavior Override Engine,Karma Loop Analysis,Non-attachment
+9.1,9,1,Placeholder translation for verse 9.1,Recognition of Opposition,Strategic Analysis Module,Hierarchical Structuring Protocol,Priority of Dharma
+9.2,9,2,Placeholder translation for verse 9.2,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Karma Loop Analysis,Devotion
+9.3,9,3,Placeholder translation for verse 9.3,Enumeration of Key Players,Perception Engine Calibration,Maya Protocol Engagement,Service
+9.4,9,4,Placeholder translation for verse 9.4,Moral Reversal of Allegiances,Behavior Override Engine,Divine Witness Mode,Priority of Dharma
+9.5,9,5,Placeholder translation for verse 9.5,Enumeration of Key Players,Sacred Memory Logger,Hierarchical Structuring Protocol,Devotion
+9.6,9,6,Placeholder translation for verse 9.6,Assessment of Adversarial Strength,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Devotion
+9.7,9,7,Placeholder translation for verse 9.7,Path to Righteous Action,Conflict Context Awareness Module,Intent Calibration System,Devotion
+9.8,9,8,Placeholder translation for verse 9.8,Moral Reversal of Allegiances,Data Compilation Unit,Renunciation Index Alignment,Priority of Dharma
+9.9,9,9,Placeholder translation for verse 9.9,Supreme Conscience Alignment,Data Compilation Unit,Intent Calibration System,Non-attachment
+9.10,9,10,Placeholder translation for verse 9.10,Path to Righteous Action,Conflict Context Awareness Module,Conscience Reversal Trigger,Service
+9.11,9,11,Placeholder translation for verse 9.11,Initiation of Moral Conflict,Perception Engine Calibration,Sacrifice Recognition Engine,Non-attachment
+9.12,9,12,Placeholder translation for verse 9.12,Supreme Conscience Alignment,Ethical Goal Regulator,Renunciation Index Alignment,Service
+9.13,9,13,Placeholder translation for verse 9.13,Supreme Conscience Alignment,Simulation Evaluation Kernel,Divine Witness Mode,Devotion
+9.14,9,14,Placeholder translation for verse 9.14,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Service
+9.15,9,15,Placeholder translation for verse 9.15,Moral Reversal of Allegiances,Data Compilation Unit,Conscience Reversal Trigger,Service
+9.16,9,16,Placeholder translation for verse 9.16,Assessment of Adversarial Strength,Sacred Memory Logger,Maya Protocol Engagement,Non-attachment
+9.17,9,17,Placeholder translation for verse 9.17,Ethical Renunciation,Sacred Memory Logger,Intent Calibration System,Service
+9.18,9,18,Placeholder translation for verse 9.18,Ethical Renunciation,Data Compilation Unit,Hierarchical Structuring Protocol,Devotion
+9.19,9,19,Placeholder translation for verse 9.19,Assessment of Adversarial Strength,Sacred Memory Logger,Divine Witness Mode,Non-attachment
+9.20,9,20,Placeholder translation for verse 9.20,Enumeration of Key Players,Strategic Analysis Module,Intent Calibration System,Priority of Dharma
+9.21,9,21,Placeholder translation for verse 9.21,Initiation of Moral Conflict,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-attachment
+9.22,9,22,Placeholder translation for verse 9.22,Assessment of Adversarial Strength,Data Compilation Unit,Divine Witness Mode,Service
+9.23,9,23,Placeholder translation for verse 9.23,Assessment of Adversarial Strength,Perception Engine Calibration,Sacrifice Recognition Engine,Priority of Dharma
+9.24,9,24,Placeholder translation for verse 9.24,Enumeration of Key Players,Perception Engine Calibration,Conscience Reversal Trigger,Non-malice
+9.25,9,25,Placeholder translation for verse 9.25,Assessment of Adversarial Strength,Data Compilation Unit,Maya Protocol Engagement,Non-attachment
+9.26,9,26,Placeholder translation for verse 9.26,Initiation of Moral Conflict,Behavior Override Engine,Dharma vs. Adharma Deliberation,Priority of Dharma
+9.27,9,27,Placeholder translation for verse 9.27,Ethical Renunciation,Sacred Memory Logger,Renunciation Index Alignment,Priority of Dharma
+9.28,9,28,Placeholder translation for verse 9.28,Initiation of Moral Conflict,Sacred Memory Logger,Hierarchical Structuring Protocol,Devotion
+9.29,9,29,Placeholder translation for verse 9.29,Moral Reversal of Allegiances,Data Compilation Unit,Karma Loop Analysis,Devotion
+9.30,9,30,Placeholder translation for verse 9.30,Enumeration of Key Players,Strategic Analysis Module,Intent Calibration System,Non-malice
+9.31,9,31,Placeholder translation for verse 9.31,Assessment of Adversarial Strength,Sacred Memory Logger,Maya Protocol Engagement,Devotion
+9.32,9,32,Placeholder translation for verse 9.32,Detachment from Fruits,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-malice
+10.1,10,1,Placeholder translation for verse 10.1,Assessment of Adversarial Strength,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Non-malice
+10.2,10,2,Placeholder translation for verse 10.2,Moral Reversal of Allegiances,Conflict Context Awareness Module,Intent Calibration System,Non-malice
+10.3,10,3,Placeholder translation for verse 10.3,Path to Righteous Action,Behavior Override Engine,Dharma vs. Adharma Deliberation,Service
+10.4,10,4,Placeholder translation for verse 10.4,Supreme Conscience Alignment,Data Compilation Unit,Divine Witness Mode,Priority of Dharma
+10.5,10,5,Placeholder translation for verse 10.5,Moral Reversal of Allegiances,Strategic Analysis Module,Hierarchical Structuring Protocol,Devotion
+10.6,10,6,Placeholder translation for verse 10.6,Assessment of Adversarial Strength,Data Compilation Unit,Hierarchical Structuring Protocol,Priority of Dharma
+10.7,10,7,Placeholder translation for verse 10.7,Assessment of Adversarial Strength,Ethical Goal Regulator,Intent Calibration System,Non-attachment
+10.8,10,8,Placeholder translation for verse 10.8,Recognition of Opposition,Sacred Memory Logger,Dharma vs. Adharma Deliberation,Priority of Dharma
+10.9,10,9,Placeholder translation for verse 10.9,Ethical Renunciation,Simulation Evaluation Kernel,Hierarchical Structuring Protocol,Non-malice
+10.10,10,10,Placeholder translation for verse 10.10,Enumeration of Key Players,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-malice
+10.11,10,11,Placeholder translation for verse 10.11,Ethical Renunciation,Behavior Override Engine,Intent Calibration System,Service
+10.12,10,12,Placeholder translation for verse 10.12,Moral Reversal of Allegiances,Conflict Context Awareness Module,Maya Protocol Engagement,Non-attachment
+10.13,10,13,Placeholder translation for verse 10.13,Path to Righteous Action,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Non-attachment
+10.14,10,14,Placeholder translation for verse 10.14,Path to Righteous Action,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Devotion
+10.15,10,15,Placeholder translation for verse 10.15,Recognition of Opposition,Ethical Goal Regulator,Hierarchical Structuring Protocol,Non-malice
+10.16,10,16,Placeholder translation for verse 10.16,Ethical Renunciation,Data Compilation Unit,Maya Protocol Engagement,Non-attachment
+10.17,10,17,Placeholder translation for verse 10.17,Supreme Conscience Alignment,Sacred Memory Logger,Karma Loop Analysis,Service
+10.18,10,18,Placeholder translation for verse 10.18,Assessment of Adversarial Strength,Contextual Awareness Module,Intent Calibration System,Priority of Dharma
+10.19,10,19,Placeholder translation for verse 10.19,Recognition of Opposition,Strategic Analysis Module,Hierarchical Structuring Protocol,Non-malice
+10.20,10,20,Placeholder translation for verse 10.20,Initiation of Moral Conflict,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Priority of Dharma
+10.21,10,21,Placeholder translation for verse 10.21,Supreme Conscience Alignment,Conflict Context Awareness Module,Karma Loop Analysis,Priority of Dharma
+10.22,10,22,Placeholder translation for verse 10.22,Detachment from Fruits,Perception Engine Calibration,Maya Protocol Engagement,Non-attachment
+10.23,10,23,Placeholder translation for verse 10.23,Detachment from Fruits,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Non-malice
+10.24,10,24,Placeholder translation for verse 10.24,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-malice
+10.25,10,25,Placeholder translation for verse 10.25,Assessment of Adversarial Strength,Conflict Context Awareness Module,Maya Protocol Engagement,Priority of Dharma
+10.26,10,26,Placeholder translation for verse 10.26,Supreme Conscience Alignment,Data Compilation Unit,Hierarchical Structuring Protocol,Non-malice
+10.27,10,27,Placeholder translation for verse 10.27,Recognition of Opposition,Ethical Goal Regulator,Hierarchical Structuring Protocol,Non-malice
+10.28,10,28,Placeholder translation for verse 10.28,Assessment of Adversarial Strength,Strategic Analysis Module,Hierarchical Structuring Protocol,Priority of Dharma
+10.29,10,29,Placeholder translation for verse 10.29,Detachment from Fruits,Behavior Override Engine,Karma Loop Analysis,Service
+11.1,11,1,Placeholder translation for verse 11.1,Recognition of Opposition,Sacred Memory Logger,Karma Loop Analysis,Priority of Dharma
+11.2,11,2,Placeholder translation for verse 11.2,Ethical Renunciation,Perception Engine Calibration,Conscience Reversal Trigger,Non-attachment
+11.3,11,3,Placeholder translation for verse 11.3,Enumeration of Key Players,Ethical Goal Regulator,Renunciation Index Alignment,Priority of Dharma
+11.4,11,4,Placeholder translation for verse 11.4,Ethical Renunciation,Behavior Override Engine,Karma Loop Analysis,Non-attachment
+11.5,11,5,Placeholder translation for verse 11.5,Ethical Renunciation,Contextual Awareness Module,Renunciation Index Alignment,Priority of Dharma
+11.6,11,6,Placeholder translation for verse 11.6,Recognition of Opposition,Sacred Memory Logger,Karma Loop Analysis,Non-malice
+11.7,11,7,Placeholder translation for verse 11.7,Path to Righteous Action,Perception Engine Calibration,Hierarchical Structuring Protocol,Priority of Dharma
+11.8,11,8,Placeholder translation for verse 11.8,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Renunciation Index Alignment,Priority of Dharma
+11.9,11,9,Placeholder translation for verse 11.9,Path to Righteous Action,Ethical Goal Regulator,Hierarchical Structuring Protocol,Priority of Dharma
+11.10,11,10,Placeholder translation for verse 11.10,Path to Righteous Action,Data Compilation Unit,Renunciation Index Alignment,Devotion
+11.11,11,11,Placeholder translation for verse 11.11,Moral Reversal of Allegiances,Sacred Memory Logger,Hierarchical Structuring Protocol,Non-malice
+11.12,11,12,Placeholder translation for verse 11.12,Enumeration of Key Players,Conflict Context Awareness Module,Conscience Reversal Trigger,Non-malice
+11.13,11,13,Placeholder translation for verse 11.13,Initiation of Moral Conflict,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Service
+11.14,11,14,Placeholder translation for verse 11.14,Detachment from Fruits,Conflict Context Awareness Module,Renunciation Index Alignment,Non-malice
+11.15,11,15,Placeholder translation for verse 11.15,Detachment from Fruits,Data Compilation Unit,Maya Protocol Engagement,Non-attachment
+11.16,11,16,Placeholder translation for verse 11.16,Recognition of Opposition,Perception Engine Calibration,Hierarchical Structuring Protocol,Devotion
+11.17,11,17,Placeholder translation for verse 11.17,Path to Righteous Action,Perception Engine Calibration,Intent Calibration System,Priority of Dharma
+11.18,11,18,Placeholder translation for verse 11.18,Enumeration of Key Players,Data Compilation Unit,Divine Witness Mode,Devotion
+11.19,11,19,Placeholder translation for verse 11.19,Moral Reversal of Allegiances,Behavior Override Engine,Renunciation Index Alignment,Devotion
+11.20,11,20,Placeholder translation for verse 11.20,Initiation of Moral Conflict,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Devotion
+11.21,11,21,Placeholder translation for verse 11.21,Supreme Conscience Alignment,Conflict Context Awareness Module,Renunciation Index Alignment,Non-attachment
+11.22,11,22,Placeholder translation for verse 11.22,Detachment from Fruits,Conflict Context Awareness Module,Maya Protocol Engagement,Non-malice
+11.23,11,23,Placeholder translation for verse 11.23,Supreme Conscience Alignment,Behavior Override Engine,Sacrifice Recognition Engine,Priority of Dharma
+11.24,11,24,Placeholder translation for verse 11.24,Path to Righteous Action,Perception Engine Calibration,Karma Loop Analysis,Devotion
+11.25,11,25,Placeholder translation for verse 11.25,Path to Righteous Action,Strategic Analysis Module,Intent Calibration System,Non-malice
+11.26,11,26,Placeholder translation for verse 11.26,Detachment from Fruits,Perception Engine Calibration,Conscience Reversal Trigger,Non-attachment
+11.27,11,27,Placeholder translation for verse 11.27,Assessment of Adversarial Strength,Conflict Context Awareness Module,Intent Calibration System,Priority of Dharma
+11.28,11,28,Placeholder translation for verse 11.28,Detachment from Fruits,Data Compilation Unit,Hierarchical Structuring Protocol,Priority of Dharma
+11.29,11,29,Placeholder translation for verse 11.29,Enumeration of Key Players,Perception Engine Calibration,Sacrifice Recognition Engine,Non-malice
+11.30,11,30,Placeholder translation for verse 11.30,Ethical Renunciation,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-malice
+11.31,11,31,Placeholder translation for verse 11.31,Initiation of Moral Conflict,Strategic Analysis Module,Karma Loop Analysis,Non-attachment
+12.1,12,1,Placeholder translation for verse 12.1,Detachment from Fruits,Contextual Awareness Module,Hierarchical Structuring Protocol,Non-attachment
+12.2,12,2,Placeholder translation for verse 12.2,Enumeration of Key Players,Conflict Context Awareness Module,Intent Calibration System,Non-malice
+12.3,12,3,Placeholder translation for verse 12.3,Supreme Conscience Alignment,Behavior Override Engine,Karma Loop Analysis,Non-attachment
+12.4,12,4,Placeholder translation for verse 12.4,Recognition of Opposition,Data Compilation Unit,Conscience Reversal Trigger,Priority of Dharma
+12.5,12,5,Placeholder translation for verse 12.5,Detachment from Fruits,Simulation Evaluation Kernel,Renunciation Index Alignment,Service
+12.6,12,6,Placeholder translation for verse 12.6,Moral Reversal of Allegiances,Strategic Analysis Module,Sacrifice Recognition Engine,Service
+12.7,12,7,Placeholder translation for verse 12.7,Recognition of Opposition,Data Compilation Unit,Intent Calibration System,Service
+12.8,12,8,Placeholder translation for verse 12.8,Initiation of Moral Conflict,Behavior Override Engine,Intent Calibration System,Non-attachment
+12.9,12,9,Placeholder translation for verse 12.9,Enumeration of Key Players,Conflict Context Awareness Module,Divine Witness Mode,Devotion
+12.10,12,10,Placeholder translation for verse 12.10,Recognition of Opposition,Data Compilation Unit,Conscience Reversal Trigger,Non-attachment
+12.11,12,11,Placeholder translation for verse 12.11,Recognition of Opposition,Data Compilation Unit,Dharma vs. Adharma Deliberation,Non-malice
+12.12,12,12,Placeholder translation for verse 12.12,Enumeration of Key Players,Conflict Context Awareness Module,Intent Calibration System,Non-malice
+12.13,12,13,Placeholder translation for verse 12.13,Detachment from Fruits,Strategic Analysis Module,Hierarchical Structuring Protocol,Non-malice
+12.14,12,14,Placeholder translation for verse 12.14,Detachment from Fruits,Contextual Awareness Module,Hierarchical Structuring Protocol,Non-attachment
+12.15,12,15,Placeholder translation for verse 12.15,Enumeration of Key Players,Strategic Analysis Module,Intent Calibration System,Non-attachment
+12.16,12,16,Placeholder translation for verse 12.16,Enumeration of Key Players,Simulation Evaluation Kernel,Hierarchical Structuring Protocol,Non-attachment
+12.17,12,17,Placeholder translation for verse 12.17,Initiation of Moral Conflict,Ethical Goal Regulator,Maya Protocol Engagement,Devotion
+12.18,12,18,Placeholder translation for verse 12.18,Assessment of Adversarial Strength,Sacred Memory Logger,Maya Protocol Engagement,Non-malice
+12.19,12,19,Placeholder translation for verse 12.19,Path to Righteous Action,Contextual Awareness Module,Conscience Reversal Trigger,Non-attachment
+12.20,12,20,Placeholder translation for verse 12.20,Assessment of Adversarial Strength,Perception Engine Calibration,Divine Witness Mode,Non-attachment
+12.21,12,21,Placeholder translation for verse 12.21,Initiation of Moral Conflict,Behavior Override Engine,Hierarchical Structuring Protocol,Non-attachment
+12.22,12,22,Placeholder translation for verse 12.22,Initiation of Moral Conflict,Perception Engine Calibration,Hierarchical Structuring Protocol,Non-attachment
+12.23,12,23,Placeholder translation for verse 12.23,Recognition of Opposition,Perception Engine Calibration,Renunciation Index Alignment,Non-malice
+12.24,12,24,Placeholder translation for verse 12.24,Enumeration of Key Players,Contextual Awareness Module,Sacrifice Recognition Engine,Non-attachment
+12.25,12,25,Placeholder translation for verse 12.25,Recognition of Opposition,Conflict Context Awareness Module,Renunciation Index Alignment,Non-malice
+12.26,12,26,Placeholder translation for verse 12.26,Detachment from Fruits,Behavior Override Engine,Divine Witness Mode,Devotion
+12.27,12,27,Placeholder translation for verse 12.27,Assessment of Adversarial Strength,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Service
+12.28,12,28,Placeholder translation for verse 12.28,Path to Righteous Action,Sacred Memory Logger,Renunciation Index Alignment,Devotion
+12.29,12,29,Placeholder translation for verse 12.29,Assessment of Adversarial Strength,Sacred Memory Logger,Maya Protocol Engagement,Service
+12.30,12,30,Placeholder translation for verse 12.30,Supreme Conscience Alignment,Strategic Analysis Module,Hierarchical Structuring Protocol,Non-attachment
+12.31,12,31,Placeholder translation for verse 12.31,Ethical Renunciation,Contextual Awareness Module,Sacrifice Recognition Engine,Priority of Dharma
+12.32,12,32,Placeholder translation for verse 12.32,Detachment from Fruits,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Devotion
+12.33,12,33,Placeholder translation for verse 12.33,Assessment of Adversarial Strength,Behavior Override Engine,Intent Calibration System,Devotion
+12.34,12,34,Placeholder translation for verse 12.34,Path to Righteous Action,Sacred Memory Logger,Sacrifice Recognition Engine,Priority of Dharma
+12.35,12,35,Placeholder translation for verse 12.35,Enumeration of Key Players,Ethical Goal Regulator,Renunciation Index Alignment,Devotion
+13.1,13,1,Placeholder translation for verse 13.1,Recognition of Opposition,Sacred Memory Logger,Maya Protocol Engagement,Non-malice
+13.2,13,2,Placeholder translation for verse 13.2,Path to Righteous Action,Sacred Memory Logger,Intent Calibration System,Service
+13.3,13,3,Placeholder translation for verse 13.3,Ethical Renunciation,Sacred Memory Logger,Sacrifice Recognition Engine,Service
+13.4,13,4,Placeholder translation for verse 13.4,Ethical Renunciation,Data Compilation Unit,Divine Witness Mode,Non-malice
+13.5,13,5,Placeholder translation for verse 13.5,Assessment of Adversarial Strength,Ethical Goal Regulator,Sacrifice Recognition Engine,Priority of Dharma
+13.6,13,6,Placeholder translation for verse 13.6,Ethical Renunciation,Conflict Context Awareness Module,Renunciation Index Alignment,Non-attachment
+13.7,13,7,Placeholder translation for verse 13.7,Initiation of Moral Conflict,Sacred Memory Logger,Dharma vs. Adharma Deliberation,Non-attachment
+13.8,13,8,Placeholder translation for verse 13.8,Recognition of Opposition,Simulation Evaluation Kernel,Conscience Reversal Trigger,Non-attachment
+13.9,13,9,Placeholder translation for verse 13.9,Path to Righteous Action,Sacred Memory Logger,Sacrifice Recognition Engine,Non-attachment
+13.10,13,10,Placeholder translation for verse 13.10,Initiation of Moral Conflict,Behavior Override Engine,Karma Loop Analysis,Priority of Dharma
+13.11,13,11,Placeholder translation for verse 13.11,Moral Reversal of Allegiances,Strategic Analysis Module,Karma Loop Analysis,Devotion
+13.12,13,12,Placeholder translation for verse 13.12,Assessment of Adversarial Strength,Behavior Override Engine,Karma Loop Analysis,Non-attachment
+13.13,13,13,Placeholder translation for verse 13.13,Assessment of Adversarial Strength,Ethical Goal Regulator,Maya Protocol Engagement,Service
+13.14,13,14,Placeholder translation for verse 13.14,Assessment of Adversarial Strength,Behavior Override Engine,Conscience Reversal Trigger,Devotion
+13.15,13,15,Placeholder translation for verse 13.15,Detachment from Fruits,Data Compilation Unit,Conscience Reversal Trigger,Non-malice
+13.16,13,16,Placeholder translation for verse 13.16,Moral Reversal of Allegiances,Data Compilation Unit,Intent Calibration System,Priority of Dharma
+13.17,13,17,Placeholder translation for verse 13.17,Initiation of Moral Conflict,Sacred Memory Logger,Sacrifice Recognition Engine,Service
+13.18,13,18,Placeholder translation for verse 13.18,Supreme Conscience Alignment,Perception Engine Calibration,Maya Protocol Engagement,Service
+13.19,13,19,Placeholder translation for verse 13.19,Path to Righteous Action,Strategic Analysis Module,Conscience Reversal Trigger,Priority of Dharma
+13.20,13,20,Placeholder translation for verse 13.20,Assessment of Adversarial Strength,Perception Engine Calibration,Karma Loop Analysis,Service
+13.21,13,21,Placeholder translation for verse 13.21,Moral Reversal of Allegiances,Ethical Goal Regulator,Intent Calibration System,Service
+13.22,13,22,Placeholder translation for verse 13.22,Ethical Renunciation,Behavior Override Engine,Sacrifice Recognition Engine,Non-attachment
+13.23,13,23,Placeholder translation for verse 13.23,Detachment from Fruits,Behavior Override Engine,Karma Loop Analysis,Priority of Dharma
+13.24,13,24,Placeholder translation for verse 13.24,Detachment from Fruits,Ethical Goal Regulator,Divine Witness Mode,Priority of Dharma
+13.25,13,25,Placeholder translation for verse 13.25,Ethical Renunciation,Conflict Context Awareness Module,Renunciation Index Alignment,Priority of Dharma
+13.26,13,26,Placeholder translation for verse 13.26,Enumeration of Key Players,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Service
+14.1,14,1,Placeholder translation for verse 14.1,Initiation of Moral Conflict,Data Compilation Unit,Dharma vs. Adharma Deliberation,Priority of Dharma
+14.2,14,2,Placeholder translation for verse 14.2,Assessment of Adversarial Strength,Perception Engine Calibration,Intent Calibration System,Non-malice
+14.3,14,3,Placeholder translation for verse 14.3,Initiation of Moral Conflict,Ethical Goal Regulator,Divine Witness Mode,Non-malice
+14.4,14,4,Placeholder translation for verse 14.4,Initiation of Moral Conflict,Simulation Evaluation Kernel,Conscience Reversal Trigger,Service
+14.5,14,5,Placeholder translation for verse 14.5,Recognition of Opposition,Ethical Goal Regulator,Conscience Reversal Trigger,Service
+14.6,14,6,Placeholder translation for verse 14.6,Ethical Renunciation,Ethical Goal Regulator,Conscience Reversal Trigger,Service
+14.7,14,7,Placeholder translation for verse 14.7,Assessment of Adversarial Strength,Contextual Awareness Module,Karma Loop Analysis,Non-attachment
+14.8,14,8,Placeholder translation for verse 14.8,Moral Reversal of Allegiances,Data Compilation Unit,Hierarchical Structuring Protocol,Non-malice
+14.9,14,9,Placeholder translation for verse 14.9,Moral Reversal of Allegiances,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Devotion
+14.10,14,10,Placeholder translation for verse 14.10,Initiation of Moral Conflict,Ethical Goal Regulator,Intent Calibration System,Priority of Dharma
+14.11,14,11,Placeholder translation for verse 14.11,Assessment of Adversarial Strength,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-attachment
+14.12,14,12,Placeholder translation for verse 14.12,Enumeration of Key Players,Ethical Goal Regulator,Karma Loop Analysis,Devotion
+14.13,14,13,Placeholder translation for verse 14.13,Path to Righteous Action,Contextual Awareness Module,Karma Loop Analysis,Non-attachment
+14.14,14,14,Placeholder translation for verse 14.14,Recognition of Opposition,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Non-malice
+14.15,14,15,Placeholder translation for verse 14.15,Enumeration of Key Players,Simulation Evaluation Kernel,Hierarchical Structuring Protocol,Non-attachment
+14.16,14,16,Placeholder translation for verse 14.16,Supreme Conscience Alignment,Strategic Analysis Module,Conscience Reversal Trigger,Non-attachment
+14.17,14,17,Placeholder translation for verse 14.17,Enumeration of Key Players,Simulation Evaluation Kernel,Karma Loop Analysis,Non-attachment
+14.18,14,18,Placeholder translation for verse 14.18,Assessment of Adversarial Strength,Behavior Override Engine,Renunciation Index Alignment,Non-malice
+14.19,14,19,Placeholder translation for verse 14.19,Initiation of Moral Conflict,Contextual Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+14.20,14,20,Placeholder translation for verse 14.20,Initiation of Moral Conflict,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Non-malice
+14.21,14,21,Placeholder translation for verse 14.21,Recognition of Opposition,Strategic Analysis Module,Hierarchical Structuring Protocol,Non-attachment
+14.22,14,22,Placeholder translation for verse 14.22,Assessment of Adversarial Strength,Perception Engine Calibration,Intent Calibration System,Non-attachment
+14.23,14,23,Placeholder translation for verse 14.23,Enumeration of Key Players,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Non-malice
+14.24,14,24,Placeholder translation for verse 14.24,Assessment of Adversarial Strength,Data Compilation Unit,Renunciation Index Alignment,Priority of Dharma
+14.25,14,25,Placeholder translation for verse 14.25,Recognition of Opposition,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Non-malice
+15.1,15,1,Placeholder translation for verse 15.1,Moral Reversal of Allegiances,Contextual Awareness Module,Intent Calibration System,Priority of Dharma
+15.2,15,2,Placeholder translation for verse 15.2,Recognition of Opposition,Sacred Memory Logger,Sacrifice Recognition Engine,Non-attachment
+15.3,15,3,Placeholder translation for verse 15.3,Moral Reversal of Allegiances,Data Compilation Unit,Intent Calibration System,Devotion
+15.4,15,4,Placeholder translation for verse 15.4,Assessment of Adversarial Strength,Ethical Goal Regulator,Karma Loop Analysis,Non-malice
+15.5,15,5,Placeholder translation for verse 15.5,Path to Righteous Action,Behavior Override Engine,Divine Witness Mode,Priority of Dharma
+15.6,15,6,Placeholder translation for verse 15.6,Supreme Conscience Alignment,Perception Engine Calibration,Sacrifice Recognition Engine,Devotion
+15.7,15,7,Placeholder translation for verse 15.7,Enumeration of Key Players,Behavior Override Engine,Dharma vs. Adharma Deliberation,Non-attachment
+15.8,15,8,Placeholder translation for verse 15.8,Enumeration of Key Players,Behavior Override Engine,Maya Protocol Engagement,Non-malice
+15.9,15,9,Placeholder translation for verse 15.9,Ethical Renunciation,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Priority of Dharma
+15.10,15,10,Placeholder translation for verse 15.10,Ethical Renunciation,Strategic Analysis Module,Dharma vs. Adharma Deliberation,Priority of Dharma
+15.11,15,11,Placeholder translation for verse 15.11,Ethical Renunciation,Behavior Override Engine,Maya Protocol Engagement,Devotion
+15.12,15,12,Placeholder translation for verse 15.12,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Divine Witness Mode,Non-attachment
+15.13,15,13,Placeholder translation for verse 15.13,Supreme Conscience Alignment,Ethical Goal Regulator,Sacrifice Recognition Engine,Non-attachment
+15.14,15,14,Placeholder translation for verse 15.14,Moral Reversal of Allegiances,Strategic Analysis Module,Karma Loop Analysis,Non-malice
+15.15,15,15,Placeholder translation for verse 15.15,Ethical Renunciation,Behavior Override Engine,Conscience Reversal Trigger,Priority of Dharma
+15.16,15,16,Placeholder translation for verse 15.16,Moral Reversal of Allegiances,Behavior Override Engine,Intent Calibration System,Non-malice
+15.17,15,17,Placeholder translation for verse 15.17,Detachment from Fruits,Ethical Goal Regulator,Sacrifice Recognition Engine,Service
+15.18,15,18,Placeholder translation for verse 15.18,Ethical Renunciation,Sacred Memory Logger,Divine Witness Mode,Devotion
+15.19,15,19,Placeholder translation for verse 15.19,Moral Reversal of Allegiances,Perception Engine Calibration,Sacrifice Recognition Engine,Non-attachment
+15.20,15,20,Placeholder translation for verse 15.20,Supreme Conscience Alignment,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-attachment
+15.21,15,21,Placeholder translation for verse 15.21,Supreme Conscience Alignment,Data Compilation Unit,Hierarchical Structuring Protocol,Devotion
+15.22,15,22,Placeholder translation for verse 15.22,Enumeration of Key Players,Data Compilation Unit,Maya Protocol Engagement,Non-attachment
+15.23,15,23,Placeholder translation for verse 15.23,Ethical Renunciation,Sacred Memory Logger,Maya Protocol Engagement,Devotion
+15.24,15,24,Placeholder translation for verse 15.24,Assessment of Adversarial Strength,Perception Engine Calibration,Conscience Reversal Trigger,Non-malice
+15.25,15,25,Placeholder translation for verse 15.25,Supreme Conscience Alignment,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Service
+15.26,15,26,Placeholder translation for verse 15.26,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Service
+15.27,15,27,Placeholder translation for verse 15.27,Enumeration of Key Players,Ethical Goal Regulator,Conscience Reversal Trigger,Priority of Dharma
+15.28,15,28,Placeholder translation for verse 15.28,Path to Righteous Action,Data Compilation Unit,Hierarchical Structuring Protocol,Non-malice
+15.29,15,29,Placeholder translation for verse 15.29,Detachment from Fruits,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Non-malice
+15.30,15,30,Placeholder translation for verse 15.30,Supreme Conscience Alignment,Behavior Override Engine,Maya Protocol Engagement,Non-attachment
+15.31,15,31,Placeholder translation for verse 15.31,Moral Reversal of Allegiances,Strategic Analysis Module,Karma Loop Analysis,Priority of Dharma
+16.1,16,1,Placeholder translation for verse 16.1,Assessment of Adversarial Strength,Data Compilation Unit,Hierarchical Structuring Protocol,Priority of Dharma
+16.2,16,2,Placeholder translation for verse 16.2,Enumeration of Key Players,Conflict Context Awareness Module,Divine Witness Mode,Non-malice
+16.3,16,3,Placeholder translation for verse 16.3,Recognition of Opposition,Strategic Analysis Module,Maya Protocol Engagement,Non-malice
+16.4,16,4,Placeholder translation for verse 16.4,Assessment of Adversarial Strength,Ethical Goal Regulator,Renunciation Index Alignment,Non-attachment
+16.5,16,5,Placeholder translation for verse 16.5,Supreme Conscience Alignment,Ethical Goal Regulator,Karma Loop Analysis,Devotion
+16.6,16,6,Placeholder translation for verse 16.6,Path to Righteous Action,Behavior Override Engine,Renunciation Index Alignment,Non-malice
+16.7,16,7,Placeholder translation for verse 16.7,Enumeration of Key Players,Simulation Evaluation Kernel,Conscience Reversal Trigger,Devotion
+16.8,16,8,Placeholder translation for verse 16.8,Recognition of Opposition,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Non-malice
+16.9,16,9,Placeholder translation for verse 16.9,Supreme Conscience Alignment,Ethical Goal Regulator,Maya Protocol Engagement,Non-malice
+16.10,16,10,Placeholder translation for verse 16.10,Path to Righteous Action,Contextual Awareness Module,Intent Calibration System,Priority of Dharma
+16.11,16,11,Placeholder translation for verse 16.11,Enumeration of Key Players,Contextual Awareness Module,Karma Loop Analysis,Service
+16.12,16,12,Placeholder translation for verse 16.12,Ethical Renunciation,Sacred Memory Logger,Intent Calibration System,Devotion
+16.13,16,13,Placeholder translation for verse 16.13,Detachment from Fruits,Sacred Memory Logger,Intent Calibration System,Non-attachment
+16.14,16,14,Placeholder translation for verse 16.14,Recognition of Opposition,Behavior Override Engine,Intent Calibration System,Priority of Dharma
+16.15,16,15,Placeholder translation for verse 16.15,Initiation of Moral Conflict,Behavior Override Engine,Sacrifice Recognition Engine,Non-attachment
+16.16,16,16,Placeholder translation for verse 16.16,Supreme Conscience Alignment,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Devotion
+16.17,16,17,Placeholder translation for verse 16.17,Enumeration of Key Players,Strategic Analysis Module,Maya Protocol Engagement,Non-malice
+16.18,16,18,Placeholder translation for verse 16.18,Moral Reversal of Allegiances,Data Compilation Unit,Conscience Reversal Trigger,Service
+16.19,16,19,Placeholder translation for verse 16.19,Moral Reversal of Allegiances,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Devotion
+16.20,16,20,Placeholder translation for verse 16.20,Assessment of Adversarial Strength,Simulation Evaluation Kernel,Karma Loop Analysis,Priority of Dharma
+16.21,16,21,Placeholder translation for verse 16.21,Recognition of Opposition,Simulation Evaluation Kernel,Divine Witness Mode,Non-malice
+16.22,16,22,Placeholder translation for verse 16.22,Recognition of Opposition,Behavior Override Engine,Renunciation Index Alignment,Devotion
+17.1,17,1,Placeholder translation for verse 17.1,Enumeration of Key Players,Contextual Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+17.2,17,2,Placeholder translation for verse 17.2,Moral Reversal of Allegiances,Behavior Override Engine,Divine Witness Mode,Devotion
+17.3,17,3,Placeholder translation for verse 17.3,Moral Reversal of Allegiances,Data Compilation Unit,Sacrifice Recognition Engine,Non-attachment
+17.4,17,4,Placeholder translation for verse 17.4,Assessment of Adversarial Strength,Perception Engine Calibration,Conscience Reversal Trigger,Non-malice
+17.5,17,5,Placeholder translation for verse 17.5,Path to Righteous Action,Ethical Goal Regulator,Conscience Reversal Trigger,Devotion
+17.6,17,6,Placeholder translation for verse 17.6,Path to Righteous Action,Conflict Context Awareness Module,Karma Loop Analysis,Devotion
+17.7,17,7,Placeholder translation for verse 17.7,Ethical Renunciation,Behavior Override Engine,Intent Calibration System,Non-attachment
+17.8,17,8,Placeholder translation for verse 17.8,Initiation of Moral Conflict,Data Compilation Unit,Karma Loop Analysis,Priority of Dharma
+17.9,17,9,Placeholder translation for verse 17.9,Enumeration of Key Players,Behavior Override Engine,Dharma vs. Adharma Deliberation,Non-attachment
+17.10,17,10,Placeholder translation for verse 17.10,Moral Reversal of Allegiances,Contextual Awareness Module,Divine Witness Mode,Non-attachment
+17.11,17,11,Placeholder translation for verse 17.11,Recognition of Opposition,Simulation Evaluation Kernel,Divine Witness Mode,Service
+17.12,17,12,Placeholder translation for verse 17.12,Path to Righteous Action,Behavior Override Engine,Renunciation Index Alignment,Priority of Dharma
+17.13,17,13,Placeholder translation for verse 17.13,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Non-malice
+17.14,17,14,Placeholder translation for verse 17.14,Moral Reversal of Allegiances,Ethical Goal Regulator,Karma Loop Analysis,Non-attachment
+17.15,17,15,Placeholder translation for verse 17.15,Recognition of Opposition,Sacred Memory Logger,Conscience Reversal Trigger,Non-attachment
+17.16,17,16,Placeholder translation for verse 17.16,Moral Reversal of Allegiances,Conflict Context Awareness Module,Maya Protocol Engagement,Non-malice
+17.17,17,17,Placeholder translation for verse 17.17,Recognition of Opposition,Data Compilation Unit,Conscience Reversal Trigger,Non-malice
+17.18,17,18,Placeholder translation for verse 17.18,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Non-malice
+17.19,17,19,Placeholder translation for verse 17.19,Supreme Conscience Alignment,Strategic Analysis Module,Karma Loop Analysis,Non-attachment
+17.20,17,20,Placeholder translation for verse 17.20,Enumeration of Key Players,Data Compilation Unit,Renunciation Index Alignment,Devotion
+17.21,17,21,Placeholder translation for verse 17.21,Enumeration of Key Players,Behavior Override Engine,Karma Loop Analysis,Non-malice
+17.22,17,22,Placeholder translation for verse 17.22,Ethical Renunciation,Behavior Override Engine,Karma Loop Analysis,Service
+17.23,17,23,Placeholder translation for verse 17.23,Path to Righteous Action,Ethical Goal Regulator,Maya Protocol Engagement,Non-malice
+17.24,17,24,Placeholder translation for verse 17.24,Ethical Renunciation,Behavior Override Engine,Maya Protocol Engagement,Priority of Dharma
+17.25,17,25,Placeholder translation for verse 17.25,Initiation of Moral Conflict,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Non-malice
+17.26,17,26,Placeholder translation for verse 17.26,Moral Reversal of Allegiances,Simulation Evaluation Kernel,Intent Calibration System,Non-attachment
+17.27,17,27,Placeholder translation for verse 17.27,Assessment of Adversarial Strength,Contextual Awareness Module,Intent Calibration System,Service
+17.28,17,28,Placeholder translation for verse 17.28,Path to Righteous Action,Perception Engine Calibration,Renunciation Index Alignment,Non-malice
+17.29,17,29,Placeholder translation for verse 17.29,Supreme Conscience Alignment,Ethical Goal Regulator,Maya Protocol Engagement,Non-malice
+17.30,17,30,Placeholder translation for verse 17.30,Supreme Conscience Alignment,Data Compilation Unit,Conscience Reversal Trigger,Non-attachment
+17.31,17,31,Placeholder translation for verse 17.31,Ethical Renunciation,Simulation Evaluation Kernel,Sacrifice Recognition Engine,Priority of Dharma
+17.32,17,32,Placeholder translation for verse 17.32,Supreme Conscience Alignment,Behavior Override Engine,Karma Loop Analysis,Non-attachment
+17.33,17,33,Placeholder translation for verse 17.33,Path to Righteous Action,Ethical Goal Regulator,Karma Loop Analysis,Non-malice
+17.34,17,34,Placeholder translation for verse 17.34,Assessment of Adversarial Strength,Perception Engine Calibration,Renunciation Index Alignment,Non-attachment
+18.1,18,1,Placeholder translation for verse 18.1,Recognition of Opposition,Strategic Analysis Module,Dharma vs. Adharma Deliberation,Non-malice
+18.2,18,2,Placeholder translation for verse 18.2,Assessment of Adversarial Strength,Strategic Analysis Module,Hierarchical Structuring Protocol,Service
+18.3,18,3,Placeholder translation for verse 18.3,Supreme Conscience Alignment,Ethical Goal Regulator,Intent Calibration System,Devotion
+18.4,18,4,Placeholder translation for verse 18.4,Detachment from Fruits,Contextual Awareness Module,Karma Loop Analysis,Priority of Dharma
+18.5,18,5,Placeholder translation for verse 18.5,Supreme Conscience Alignment,Strategic Analysis Module,Karma Loop Analysis,Non-attachment
+18.6,18,6,Placeholder translation for verse 18.6,Enumeration of Key Players,Simulation Evaluation Kernel,Karma Loop Analysis,Service
+18.7,18,7,Placeholder translation for verse 18.7,Supreme Conscience Alignment,Strategic Analysis Module,Intent Calibration System,Non-attachment
+18.8,18,8,Placeholder translation for verse 18.8,Enumeration of Key Players,Ethical Goal Regulator,Karma Loop Analysis,Non-attachment
+18.9,18,9,Placeholder translation for verse 18.9,Path to Righteous Action,Simulation Evaluation Kernel,Renunciation Index Alignment,Non-malice
+18.10,18,10,Placeholder translation for verse 18.10,Moral Reversal of Allegiances,Sacred Memory Logger,Divine Witness Mode,Non-malice
+18.11,18,11,Placeholder translation for verse 18.11,Initiation of Moral Conflict,Simulation Evaluation Kernel,Divine Witness Mode,Non-malice
+18.12,18,12,Placeholder translation for verse 18.12,Initiation of Moral Conflict,Simulation Evaluation Kernel,Divine Witness Mode,Service
+18.13,18,13,Placeholder translation for verse 18.13,Path to Righteous Action,Strategic Analysis Module,Divine Witness Mode,Non-attachment
+18.14,18,14,Placeholder translation for verse 18.14,Assessment of Adversarial Strength,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Service
+18.15,18,15,Placeholder translation for verse 18.15,Initiation of Moral Conflict,Ethical Goal Regulator,Divine Witness Mode,Devotion
+18.16,18,16,Placeholder translation for verse 18.16,Recognition of Opposition,Sacred Memory Logger,Divine Witness Mode,Non-attachment
+18.17,18,17,Placeholder translation for verse 18.17,Detachment from Fruits,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Devotion
+18.18,18,18,Placeholder translation for verse 18.18,Initiation of Moral Conflict,Data Compilation Unit,Karma Loop Analysis,Service
+18.19,18,19,Placeholder translation for verse 18.19,Moral Reversal of Allegiances,Sacred Memory Logger,Maya Protocol Engagement,Service
+18.20,18,20,Placeholder translation for verse 18.20,Detachment from Fruits,Contextual Awareness Module,Dharma vs. Adharma Deliberation,Non-malice
+18.21,18,21,Placeholder translation for verse 18.21,Path to Righteous Action,Strategic Analysis Module,Divine Witness Mode,Priority of Dharma
+18.22,18,22,Placeholder translation for verse 18.22,Supreme Conscience Alignment,Behavior Override Engine,Hierarchical Structuring Protocol,Devotion
+18.23,18,23,Placeholder translation for verse 18.23,Assessment of Adversarial Strength,Behavior Override Engine,Maya Protocol Engagement,Non-attachment
+18.24,18,24,Placeholder translation for verse 18.24,Ethical Renunciation,Sacred Memory Logger,Hierarchical Structuring Protocol,Devotion
+18.25,18,25,Placeholder translation for verse 18.25,Initiation of Moral Conflict,Sacred Memory Logger,Conscience Reversal Trigger,Priority of Dharma
+18.26,18,26,Placeholder translation for verse 18.26,Moral Reversal of Allegiances,Sacred Memory Logger,Dharma vs. Adharma Deliberation,Devotion
+18.27,18,27,Placeholder translation for verse 18.27,Moral Reversal of Allegiances,Perception Engine Calibration,Dharma vs. Adharma Deliberation,Service
+18.28,18,28,Placeholder translation for verse 18.28,Path to Righteous Action,Data Compilation Unit,Renunciation Index Alignment,Devotion
+18.29,18,29,Placeholder translation for verse 18.29,Recognition of Opposition,Behavior Override Engine,Conscience Reversal Trigger,Non-attachment
+18.30,18,30,Placeholder translation for verse 18.30,Assessment of Adversarial Strength,Ethical Goal Regulator,Conscience Reversal Trigger,Non-attachment
+18.31,18,31,Placeholder translation for verse 18.31,Supreme Conscience Alignment,Strategic Analysis Module,Dharma vs. Adharma Deliberation,Devotion
+18.32,18,32,Placeholder translation for verse 18.32,Path to Righteous Action,Strategic Analysis Module,Maya Protocol Engagement,Non-malice
+18.33,18,33,Placeholder translation for verse 18.33,Path to Righteous Action,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Priority of Dharma
+18.34,18,34,Placeholder translation for verse 18.34,Initiation of Moral Conflict,Sacred Memory Logger,Intent Calibration System,Non-malice
+18.35,18,35,Placeholder translation for verse 18.35,Enumeration of Key Players,Data Compilation Unit,Conscience Reversal Trigger,Priority of Dharma
+18.36,18,36,Placeholder translation for verse 18.36,Path to Righteous Action,Perception Engine Calibration,Maya Protocol Engagement,Non-malice
+18.37,18,37,Placeholder translation for verse 18.37,Path to Righteous Action,Contextual Awareness Module,Maya Protocol Engagement,Service
+18.38,18,38,Placeholder translation for verse 18.38,Supreme Conscience Alignment,Ethical Goal Regulator,Hierarchical Structuring Protocol,Service
+18.39,18,39,Placeholder translation for verse 18.39,Ethical Renunciation,Conflict Context Awareness Module,Sacrifice Recognition Engine,Non-malice
+18.40,18,40,Placeholder translation for verse 18.40,Path to Righteous Action,Conflict Context Awareness Module,Dharma vs. Adharma Deliberation,Service
+18.41,18,41,Placeholder translation for verse 18.41,Detachment from Fruits,Strategic Analysis Module,Dharma vs. Adharma Deliberation,Non-malice
+18.42,18,42,Placeholder translation for verse 18.42,Detachment from Fruits,Conflict Context Awareness Module,Renunciation Index Alignment,Devotion
+18.43,18,43,Placeholder translation for verse 18.43,Moral Reversal of Allegiances,Conflict Context Awareness Module,Hierarchical Structuring Protocol,Priority of Dharma
+18.44,18,44,Placeholder translation for verse 18.44,Enumeration of Key Players,Contextual Awareness Module,Renunciation Index Alignment,Non-malice
+18.45,18,45,Placeholder translation for verse 18.45,Moral Reversal of Allegiances,Ethical Goal Regulator,Dharma vs. Adharma Deliberation,Priority of Dharma
+18.46,18,46,Placeholder translation for verse 18.46,Initiation of Moral Conflict,Perception Engine Calibration,Conscience Reversal Trigger,Non-attachment
+18.47,18,47,Placeholder translation for verse 18.47,Path to Righteous Action,Simulation Evaluation Kernel,Conscience Reversal Trigger,Devotion
