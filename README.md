@@ -58,7 +58,7 @@ DharmaAI is a conscience architecture designed to embed moral awareness and ethi
 
 ---
 
-## 🪞 How to Use
+## 🪞 How to Use DharmaAI
 
 You can:
 - Run simulations like *Who Shall We Carry?* or *GenAI Disclosure Dilemma*
