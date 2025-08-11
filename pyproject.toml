@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "dharma-core"
-version = "1.0.0"
+version = "1.0.1"
 description = "DharmaAI conscience artifacts and loader API"
 readme = "README.md"
 requires-python = ">=3.9"
