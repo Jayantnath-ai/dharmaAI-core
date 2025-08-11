@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling>=1.21"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dharma-core"
+version = "1.0.0"
+description = "DharmaAI conscience artifacts and loader API"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Proprietary – DharmaAI License (see /license)" }
+authors = [{ name = "Jayant Nath" }]
+dependencies = [
+  "pyyaml>=6.0",
+  "pandas>=2.0"
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["dharma_core"]
+
+# Bundle artifacts from your existing repo structure into the wheel
+[tool.hatch.build.targets.wheel.force-include]
+"scrolls" = "dharma_core/artifacts/scrolls"
+"simulations" = "dharma_core/artifacts/simulations"
+"mirror" = "dharma_core/artifacts/mirror"
+"memory" = "dharma_core/artifacts/memory"
+"specs/schemas" = "dharma_core/specs/schemas"
+
+# (Optional) If verse matrix lives elsewhere, you can add a direct mapping, e.g.:
+# "data/verse_matrix.csv" = "dharma_core/artifacts/data/verse_matrix.csv"
